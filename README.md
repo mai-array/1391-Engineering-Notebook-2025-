@@ -3,8 +3,11 @@ The technical documentation for FRC team 1391 for the 2025 REEFSCAPE Season writ
 
 
 # Sections
-Strategy
-Prototyping
-Minimum Competitive Concept
-Competition Robot
-Future Steps 
+<li>
+  Strategy
+  Prototyping
+  Minimum Competitive Concept
+  Competition Robot
+  Future Steps 
+</li>
+
