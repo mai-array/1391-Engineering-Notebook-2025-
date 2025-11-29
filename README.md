@@ -11,4 +11,4 @@ The technical documentation for FRC team 1391 for the 2025 REEFSCAPE Season writ
 </ul>
 
 # Awards
-<li> 2025 Springside Chestnut Hill Regional Qualifier Engineering Excellence Award </li>
+<li> 2025 Springside Chestnut Hill Regional Qualifier <strong> Excellence in Engineering</strong> </li>
