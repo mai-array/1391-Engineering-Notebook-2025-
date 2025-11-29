@@ -1,5 +1,5 @@
-# 1391-Engineering-Notebook-2025-
-The technical documentation for FRC team 1391 for the 2025 REEFSCAPE Season written by myself. 
+# FRC 1391 2025 Engineering Notebook 
+<h1> The technical documentation for FRC team 1391 for the 2025 REEFSCAPE Season written by myself. </h1>
 
 
 # Sections
